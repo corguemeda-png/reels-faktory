@@ -1,0 +1,13 @@
+{
+"endpoint": "/generate-reel",
+"method": "POST",
+"input": {
+"topic": "string"
+},
+"output": {
+"idea": "string",
+"script": "object",
+"style": "object",
+"captions": "string"
+}
+}
