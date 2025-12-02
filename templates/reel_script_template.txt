@@ -1,0 +1,14 @@
+HOOK:
+{hook}
+
+
+PROBLEM:
+{problem}
+
+
+SOLUTION:
+{solution}
+
+
+CALL TO ACTION:
+{cta}
